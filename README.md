@@ -18,7 +18,7 @@ An AXI-Lite multiplier IP was created, tested on a verilog testbench, and then t
 
 a simple 16 bit multiplier was created and tested for the introduction to this lab. The waveform is shown in figure 1.
 
-![Figure 1: Testbench Waveform (Pre Lab)]
+![Figure 1: Testbench Waveform (Pre Lab)](https://github.com/gtponce9/Lab_4_AXI_IP/blob/1f000c6dbed1ef4116a8e84bc107bf87e3d16fcd/Screenshot%202026-11-01%20193432.png).
 
 ## Post lab Code
 
@@ -29,7 +29,7 @@ The overall goal was to build on the IP and merge lab 3 into lab 4. that goal di
 the addition of the IP BRAM was very straight foward and functional. All 32 mutlipler entries were correctly saved into the BRAM as shown in figure 2
 
 
-![Figure 2: Testbench Waveform (Pre Lab)]
+![Figure 2: VITIS UART BRAM OUTPUT (Post Lab)](https://github.com/gtponce9/Lab_4_AXI_IP/blob/1f000c6dbed1ef4116a8e84bc107bf87e3d16fcd/Screenshot%202026-11-08%20113817.png).
 
 
 ### IP FIFO 
